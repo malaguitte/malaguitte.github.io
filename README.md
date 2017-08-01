@@ -1,5 +1,17 @@
-## Welcome to GitHub Pages
+## Hello World :wave:
 
+My name is Anderson Malagutti, and I'm a Brazilian software developer, who has lived for almost two years in Toronto, Canada.
+I have graduated in Software Development and Analysis by FATEC in Brazil, and I also have studied Computer Programming at Seneca College in Canada. 
+
+I am passionate by technology, languages and cultures. 
+
+:coffee: is always a good idea.
+
+Feel free to contact me through [LinkedIn :link:](https://www.linkedin.com/in/upmalagutti/) or send me an [email :email:](mailto:upmalagutti@gmail.com) :smile:
+
+
+I am still going to make this page better later :trollface:
+## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/malagutti/malagutti.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
