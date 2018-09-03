@@ -1,9 +1,9 @@
 ## Hello World :wave:
 
-My name is Anderson Malagutti :bowtie:, and I am a Brazilian `software developer`, who currently lives in Prague, Czech Republic. 
-I have also lived for almost two years in Toronto, Canada.
+My name is Anderson Malagutti :bowtie:, and I am a `software developer`, who currently lives in Prague, Czech Republic. 
+I have also lived for about two years in Toronto, Canada. :maple_leaf:
 
-I have graduated in `Software Development and Analysis` by FATEC in Brazil, and I also have studied `Computer Programming` at Seneca College in Canada. 
+I have graduated in `Software Development and Analysis` by FATEC in Brazil, and I also have studied `Computer Programming` at Seneca College in Canada. :computer: :mortar_board:
 
 I am passionate by `technology`, languages and cultures. 
 
