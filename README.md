@@ -2,7 +2,7 @@
 
 My name is Anderson :bowtie:, and I am a `Software Engineer` 💻, who currently lives in Prague, Czech Republic. 🇨🇿 📍
 
-I have graduated in `Software Development and Analysis` by _FATEC_ in Brazil 🇧🇷, and I also have studied `Computer Programming` at _Seneca College_ in Canada 🇨🇦.  🎓 📚
+I have a degree in `Software Development and Analysis` by _FATEC_ in Brazil 🇧🇷, and I also have studied `Computer Programming` at _Seneca College_ in Canada 🇨🇦.  🎓 📚
 
 I am passionate by `technology`, languages and cultures. 
 
